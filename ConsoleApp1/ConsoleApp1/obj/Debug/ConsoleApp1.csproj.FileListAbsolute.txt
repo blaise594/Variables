@@ -1,0 +1,6 @@
+C:\Users\Danny\tiy\week-2\day-1\Variables\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Danny\tiy\week-2\day-1\Variables\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Danny\tiy\week-2\day-1\Variables\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Danny\tiy\week-2\day-1\Variables\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Danny\tiy\week-2\day-1\Variables\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Danny\tiy\week-2\day-1\Variables\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
